@@ -104,6 +104,8 @@ body {
 
       &:hover {
         border: 2px solid rgba(0, 0, 0, 0.3);
+        background: aquamarine;
+        transition: all 0.4s ease-in-out;
       }
     }
   }
